@@ -1,7 +1,7 @@
-###  Olá! Eu sou o Wladimir.
-Sou apaixonado por tecnologia e segurança da informação
+###  Olá! Apashe aqui.
+Sou apaixonado por tecnologia open source e segurança da informação
 
-Estou aprendendo JavaScript e Python
+Atualmente estou aprendendo JavaScript e Python
 
 ## Me siga e aprenda junto comigo!
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alucod3) [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
