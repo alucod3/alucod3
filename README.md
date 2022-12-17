@@ -1,4 +1,4 @@
-###  Olá! Apashe aqui.
+###  Olá!
 Sou apaixonado por tecnologia open source e segurança da informação
 
 Atualmente estou aprendendo JavaScript e Python
