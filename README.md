@@ -1,7 +1,9 @@
-###  Olá!
-Sou apaixonado por tecnologia open source, development e segurança da informação
+###  About me
 
-Atualmente estou aprendendo Java e Kotlin
+I'm Wladimir, a development student
+I like open source, development and information security
+
+Currently, I'm studying Java && Kotlin
 
 <div style="display: inline_block"></br>
 <img align="center" src= "https://camo.githubusercontent.com/5b7886225855c2c5ac8bcc15effcb289c238c597680d61c24e5e7541af59ee10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465">
