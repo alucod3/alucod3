@@ -1,4 +1,4 @@
-###  About me
+##  About me
 
 I'm Wladimir, a development student
 I like open source, development and information security
@@ -11,9 +11,8 @@ Currently, I'm studying Java && Kotlin
 <img align="center" src="https://camo.githubusercontent.com/771cc18a712bf9edb0925a86164c34b0d803c4d9177dd4467eff7b777109c723/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">
 </div>
 
-## Tecnologias que eu uso no meu dia
+### Technologies I use in my daily life
 <div style="display: inline_block"></br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white">
 </div>
