@@ -1,18 +1,11 @@
-##  About me
+# Hello, World!
 
-I'm Wladimir, a development student
-I like open source, development and information security
+I'm Wladimir, a technology enthusiast passionate about creating innovative solutions that positively impact people's lives. I've been exploring my interests in cybersecurity and web development.
 
-Currently, I'm studying Java && Kotlin
+### What Motivates Me?
+From a young age, I've had an insatiable curiosity for understanding how things work and how I can improve them. This led me to the world of software development, where I can blend creativity with technical skills to tackle complex challenges. I'm constantly learning and staying updated on the latest technologies to stay ahead in the field of [Your Field of Interest].
 
-<div style="display: inline_block"></br>
-<img align="center" src= "https://camo.githubusercontent.com/5b7886225855c2c5ac8bcc15effcb289c238c597680d61c24e5e7541af59ee10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465">
-<img align="center" src="https://camo.githubusercontent.com/c6a93410baf71991a808a96a2fcc4241401eb9313b6e8d474c6d587f91e1582b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f746c696e2d3030393544353f267374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465">
-<img align="center" src="https://camo.githubusercontent.com/771cc18a712bf9edb0925a86164c34b0d803c4d9177dd4467eff7b777109c723/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">
-</div>
 
-### Technologies I use in my daily life
-<div style="display: inline_block"></br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white">
-</div>
+
+### Why GitHub?
+GitHub is more than just a platform to me; it's a space where I can share my knowledge, learn new things, and contribute to the community.
